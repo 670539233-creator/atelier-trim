@@ -1,0 +1,197 @@
+{
+    "site": {
+        "title": "Professional Garment Accessories Supplier | Atelier Trim",
+        "description": "Professional garment accessories & trims supplier - Hang Tags, Woven Labels, Woven Tape, Buttons, Mailer Boxes, Garment Bags"
+    },
+    "nav": {
+        "logo": "Atelier Trim",
+        "home": "Home",
+        "products": "Products",
+        "contact": "Contact"
+    },
+    "hero": {
+        "badge": "Quality Trims · Trusted Partner",
+        "title": "Professional Garment Accessories Supplier",
+        "subtitle": "Hang Tags · Woven Labels · Tape · Buttons · Mailer Boxes · Garment Bags",
+        "viewProducts": "View Products",
+        "contactUs": "Contact Us",
+        "badge2": "Custom Manufacturing · Global Delivery",
+        "title2": "Customize Your Brand Trims",
+        "subtitle2": "One-stop trims solutions from design to delivery"
+    },
+    "about": {
+        "label": "About Us",
+        "title": "Your Professional Garment Trims Solution Provider",
+        "p1": "We are a comprehensive enterprise specializing in the R&D, production and sales of garment accessories, with over 15 years of industry experience. Our products cover hang tags, woven labels, woven tape, buttons, mailer boxes, garment bags and a full range of garment trims, providing one-stop procurement services for our clients.",
+        "p2": "Equipped with advanced production facilities and a strict quality control system, our products are exported to over 30 countries and regions across Europe, America, Southeast Asia, and the Middle East. We are committed to delivering high-quality, cost-effective trims to help elevate your brand.",
+        "years": "Years Experience",
+        "clients": "Clients Served",
+        "countries": "Export Countries"
+    },
+    "categories": {
+        "label": "Product Categories",
+        "title": "Six Major Product Series",
+        "hangtags": "Hang Tags",
+        "hangtags_desc": "Brand hang tags, price tags, swing tickets with customizable materials and finishes",
+        "wovenlabels": "Woven Labels",
+        "wovenlabels_desc": "High-quality woven labels with fine craftsmanship, clearly showcasing brand information",
+        "woventape": "Woven Tape",
+        "woventape_desc": "Garment tapes, drawcords, elastic bands with customizable colors and sizes",
+        "buttons": "Buttons",
+        "buttons_desc": "Resin, metal, shell buttons in various materials to meet different garment needs",
+        "mailerboxes": "Mailer Boxes",
+        "mailerboxes_desc": "Custom mailer boxes, shipping boxes with brand logo and pattern printing",
+        "garmentbags": "Garment Bags",
+        "garmentbags_desc": "OPP, PE, non-woven garment packaging bags available with custom printing"
+    },
+    "advantages": {
+        "label": "Why Choose Us",
+        "title": "Our Core Advantages",
+        "quality": {
+            "title": "Quality Assurance",
+            "desc": "Strict quality control system with multiple inspection processes before shipment"
+        },
+        "delivery": {
+            "title": "Fast Delivery",
+            "desc": "Efficient supply chain management, regular orders delivered within 7-15 days"
+        },
+        "custom": {
+            "title": "Customization",
+            "desc": "Sample-based customization, OEM/ODM services to meet your unique requirements"
+        },
+        "logistics": {
+            "title": "Global Logistics",
+            "desc": "Sea, air, and express shipping to 30+ countries worldwide"
+        }
+    },
+    "products": {
+        "label": "Product Showcase",
+        "title": "All Products",
+        "viewDetails": "View Details",
+        "inquiry": "Inquiry",
+        "specs": "Specifications",
+        "description": "Description"
+    },
+    "filter": {
+        "all": "All",
+        "hangtags": "Hang Tags",
+        "wovenlabels": "Woven Labels",
+        "woventape": "Woven Tape",
+        "buttons": "Buttons",
+        "mailerboxes": "Mailer Boxes",
+        "garmentbags": "Garment Bags"
+    },
+    "contact": {
+        "label": "Contact Us",
+        "title": "Get a Quote & Consultation",
+        "infoTitle": "Contact Information",
+        "email": "Email",
+        "phone": "Phone",
+        "address": "Address",
+        "hours": "Working Hours",
+        "hoursText": "Mon-Fri: 9:00 - 18:00 (Beijing Time)\nWe will reply to your inquiry within 24 hours"
+    },
+    "form": {
+        "name": "Name *",
+        "email": "Email *",
+        "phone": "Phone",
+        "company": "Company",
+        "productInterest": "Product Interest",
+        "selectProduct": "Select a product",
+        "message": "Message *",
+        "submit": "Send Inquiry",
+        "success": "✓ Inquiry sent successfully! We will contact you within 24 hours.",
+        "error": "✗ Failed to send. Please try again or email us at ateliertrim@yeah.net"
+    },
+    "inquiry": {
+        "title": "Quick Inquiry",
+        "success": "✓ Inquiry submitted! We will reply shortly.",
+        "error": "✗ Submission failed. Please try again."
+    },
+    "footer": {
+        "desc": "Professional garment accessories supplier, one-stop procurement solutions",
+        "quickLinks": "Quick Links",
+        "products": "Products",
+        "contact": "Contact",
+        "rights": "All rights reserved."
+    },
+    "product_data": {
+        "hangtags": {
+            "name": "Hang Tags",
+            "category": "Hang Tags",
+            "description": "We offer a wide range of high-quality garment hang tags, including brand tags, price tags, care labels, and more. Available in coated paper, kraft paper, PVC, white cardstock, and various specialty papers. Processes include hot stamping, embossing, UV coating, and debossing. Fully customizable to your brand requirements.",
+            "specs": {
+                "material": "Coated Paper, Kraft Paper, PVC, White Cardstock, Specialty Paper",
+                "process": "Hot Stamping, UV Printing, Embossing, Lamination, Debossing",
+                "size": "Customizable",
+                "moq": "1,000 pcs",
+                "delivery": "7-15 working days"
+            }
+        },
+        "wovenlabels": {
+            "name": "Woven Labels",
+            "category": "Woven Labels",
+            "description": "Using high-precision weaving equipment, we produce various brand labels including main labels, care labels, side labels, and flag labels. Made with premium polyester yarns, our labels feature vibrant colors, clear text, soft hand feel, and excellent wash resistance. Widely used in apparel, footwear, hats, and bags.",
+            "specs": {
+                "material": "Polyester Yarn, Cotton Thread, Metallic Thread",
+                "type": "Woven Labels, Printed Labels, Heat Transfer Labels, Silicone Labels",
+                "folding": "Center Fold, End Fold, Manhattan Fold, Book Fold, etc.",
+                "moq": "1,000 pcs",
+                "delivery": "7-15 working days"
+            }
+        },
+        "woventape": {
+            "name": "Woven Tape",
+            "category": "Woven Tape",
+            "description": "Professional production of various garment tapes, drawcords, elastic bands, and satin ribbons. Produced with high-speed looms for consistent quality. Available in jacquard, printed, and dyed finishes. Width, thickness, and colors are fully customizable. Widely used in garments, bags, footwear, and crafts.",
+            "specs": {
+                "material": "Polyester, Nylon, Cotton, PP Polypropylene",
+                "type": "Plain Tape, Satin Ribbon, Elastic Band, Jacquard Tape, Herringbone Tape",
+                "width": "3mm - 150mm",
+                "color": "Any Color Available",
+                "moq": "500 meters",
+                "delivery": "7-15 working days"
+            }
+        },
+        "buttons": {
+            "name": "Buttons",
+            "category": "Buttons",
+            "description": "Full range of garment buttons including resin buttons, metal buttons, shell buttons, coconut buttons, horn buttons, and fabric-covered buttons. Custom LOGO, color, and size available. Products pass environmental certification and meet export standards. Suitable for shirts, jackets, trousers, coats, and all types of garments.",
+            "specs": {
+                "material": "Resin, Metal, Shell, Coconut Shell, Horn, Plastic",
+                "type": "4-Hole, 2-Hole, Snap, Tack, Jeans Button",
+                "size": "10mm - 50mm (various sizes)",
+                "color": "Customizable Colors & Finishes",
+                "moq": "1,000 pcs",
+                "delivery": "10-15 working days"
+            }
+        },
+        "mailerboxes": {
+            "name": "Mailer Boxes",
+            "category": "Mailer Boxes",
+            "description": "Professional production of mailer boxes, shipping boxes, and flip-top boxes for garment packaging. Made with high-quality corrugated board and coated paper, offering excellent weight-bearing and crush resistance. Custom sizes and brand LOGO printing available to enhance the unboxing experience. Suitable for apparel, footwear, gifts, and more.",
+            "specs": {
+                "material": "Corrugated Board, Coated Paper, Kraft Paper",
+                "type": "Mailer Box, Flip-top Box, Drawer Box, Lid-off Box",
+                "printing": "Single/Multi-color Printing, Lamination, Hot Stamping",
+                "size": "Fully Customizable",
+                "moq": "500 pcs",
+                "delivery": "10-20 working days"
+            }
+        },
+        "garmentbags": {
+            "name": "Garment Bags",
+            "category": "Garment Bags",
+            "description": "Various garment packaging bags including OPP self-adhesive bags, PE zipper bags, non-woven bags, and PVC bags. High transparency, excellent sealing, and strong durability. Custom sizes and brand LOGO printing available. Suitable for garment storage, shipping, and retail display packaging.",
+            "specs": {
+                "material": "OPP, PE, CPE, Non-Woven, PVC",
+                "type": "Self-adhesive Bag, Zipper Bag, Handle Bag, Vest Bag, Garment Cover",
+                "thickness": "Single side 1.5 - 20 microns",
+                "size": "Fully Customizable",
+                "printing": "1-8 Color Printing Available",
+                "moq": "1,000 pcs",
+                "delivery": "7-15 working days"
+            }
+        }
+    }
+}
