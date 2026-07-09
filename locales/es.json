@@ -1,0 +1,108 @@
+{
+    "_note": "Spanish language pack - placeholder. Copy from en.json and translate to complete.",
+    "site": {
+        "title": "Proveedor de Accesorios de Confección | Atelier Trim",
+        "description": "Proveedor profesional de accesorios y adornos para prendas"
+    },
+    "nav": {
+        "logo": "Atelier Trim",
+        "home": "Inicio",
+        "products": "Productos",
+        "contact": "Contacto"
+    },
+    "hero": {
+        "badge": "Accesorios de Calidad",
+        "title": "Proveedor Profesional de Accesorios",
+        "subtitle": "Etiquetas · Tejidos · Cintas · Botones · Cajas · Bolsas",
+        "viewProducts": "Ver Productos",
+        "contactUs": "Contáctenos",
+        "badge2": "Fabricación a Medida",
+        "title2": "Personalice sus Accesorios",
+        "subtitle2": "Soluciones integrales desde el diseño hasta la entrega"
+    },
+    "about": {
+        "label": "Sobre Nosotros",
+        "title": "Su Proveedor Profesional de Accesorios",
+        "p1": "[ES] We are a comprehensive enterprise specializing in garment accessories with over 15 years of experience.",
+        "p2": "[ES] Our products are exported to over 30 countries worldwide.",
+        "years": "Años de Experiencia",
+        "clients": "Clientes Atendidos",
+        "countries": "Países de Exportación"
+    },
+    "categories": {
+        "label": "Categorías",
+        "title": "Seis Series de Productos",
+        "hangtags": "Etiquetas Colgantes",
+        "hangtags_desc": "Etiquetas de marca personalizables",
+        "wovenlabels": "Etiquetas Tejidas",
+        "wovenlabels_desc": "Etiquetas tejidas de alta calidad",
+        "woventape": "Cintas Tejidas",
+        "woventape_desc": "Cintas y cordones personalizables",
+        "buttons": "Botones",
+        "buttons_desc": "Botones en diversos materiales",
+        "mailerboxes": "Cajas de Envío",
+        "mailerboxes_desc": "Cajas con impresión de marca personalizada",
+        "garmentbags": "Bolsas para Prendas",
+        "garmentbags_desc": "Bolsas de embalaje con impresión personalizada"
+    },
+    "advantages": {
+        "label": "Por Qué Elegirnos",
+        "title": "Nuestras Ventajas",
+        "quality": { "title": "Calidad Garantizada", "desc": "Estricto sistema de control de calidad" },
+        "delivery": { "title": "Entrega Rápida", "desc": "Pedidos entregados en 7-15 días" },
+        "custom": { "title": "Personalización", "desc": "Servicios OEM/ODM disponibles" },
+        "logistics": { "title": "Logística Global", "desc": "Envíos a más de 30 países" }
+    },
+    "products": {
+        "label": "Productos",
+        "title": "Todos los Productos",
+        "viewDetails": "Ver Detalles",
+        "inquiry": "Consultar",
+        "specs": "Especificaciones",
+        "description": "Descripción"
+    },
+    "filter": {
+        "all": "Todos",
+        "hangtags": "Etiquetas",
+        "wovenlabels": "Etiquetas Tejidas",
+        "woventape": "Cintas",
+        "buttons": "Botones",
+        "mailerboxes": "Cajas",
+        "garmentbags": "Bolsas"
+    },
+    "contact": {
+        "label": "Contacto",
+        "title": "Solicitar Cotización",
+        "infoTitle": "Información de Contacto",
+        "email": "Correo",
+        "phone": "Teléfono",
+        "address": "Dirección",
+        "hours": "Horario",
+        "hoursText": "Lun-Vie: 9:00 - 18:00 (hora de Beijing)"
+    },
+    "form": {
+        "name": "Nombre *",
+        "email": "Correo *",
+        "phone": "Teléfono",
+        "company": "Empresa",
+        "productInterest": "Producto de Interés",
+        "selectProduct": "Seleccione un producto",
+        "message": "Mensaje *",
+        "submit": "Enviar Consulta",
+        "success": "✓ ¡Consulta enviada con éxito!",
+        "error": "✗ Error al enviar. Intente nuevamente."
+    },
+    "inquiry": {
+        "title": "Consulta Rápida",
+        "success": "✓ ¡Consulta enviada!",
+        "error": "✗ Error. Intente nuevamente."
+    },
+    "footer": {
+        "desc": "Proveedor profesional de accesorios para prendas",
+        "quickLinks": "Enlaces Rápidos",
+        "products": "Productos",
+        "contact": "Contacto",
+        "rights": "Todos los derechos reservados."
+    },
+    "product_data": {}
+}
