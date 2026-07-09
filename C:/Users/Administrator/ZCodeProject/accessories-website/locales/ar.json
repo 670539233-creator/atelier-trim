@@ -1,0 +1,108 @@
+{
+    "_note": "Arabic language pack - placeholder. Copy from en.json and translate to complete. RTL support available via CSS.",
+    "site": {
+        "title": "مورد إكسسوارات الملابس | Atelier Trim",
+        "description": "مورد محترف لإكسسوارات وزخارف الملابس"
+    },
+    "nav": {
+        "logo": "Atelier Trim",
+        "home": "الرئيسية",
+        "products": "المنتجات",
+        "contact": "اتصل بنا"
+    },
+    "hero": {
+        "badge": "إكسسوارات عالية الجودة",
+        "title": "مورد محترف لإكسسوارات الملابس",
+        "subtitle": "بطاقات · ملصقات · أشرطة · أزرار · صناديق · أكياس",
+        "viewProducts": "عرض المنتجات",
+        "contactUs": "اتصل بنا",
+        "badge2": "تصنيع حسب الطلب",
+        "title2": "خصص إكسسوارات علامتك التجارية",
+        "subtitle2": "حلول متكاملة من التصميم إلى التسليم"
+    },
+    "about": {
+        "label": "من نحن",
+        "title": "مزود حلول إكسسوارات الملابس المحترف",
+        "p1": "[AR] We are a comprehensive enterprise specializing in garment accessories with over 15 years of experience.",
+        "p2": "[AR] Our products are exported to over 30 countries worldwide.",
+        "years": "سنوات الخبرة",
+        "clients": "عميل خدمنا",
+        "countries": "دولة تصدير"
+    },
+    "categories": {
+        "label": "فئات المنتجات",
+        "title": "ست سلاسل منتجات رئيسية",
+        "hangtags": "بطاقات معلقة",
+        "hangtags_desc": "بطاقات علامات تجارية قابلة للتخصيص",
+        "wovenlabels": "ملصقات منسوجة",
+        "wovenlabels_desc": "ملصقات منسوجة عالية الجودة",
+        "woventape": "أشرطة منسوجة",
+        "woventape_desc": "أشرطة وحبال قابلة للتخصيص",
+        "buttons": "أزرار",
+        "buttons_desc": "أزرار بمواد مختلفة",
+        "mailerboxes": "صناديق الشحن",
+        "mailerboxes_desc": "صناديق بطباعة شعار مخصصة",
+        "garmentbags": "أكياس الملابس",
+        "garmentbags_desc": "أكياس تغليف بطباعة مخصصة"
+    },
+    "advantages": {
+        "label": "لماذا تختارنا",
+        "title": "مزايانا الأساسية",
+        "quality": { "title": "ضمان الجودة", "desc": "نظام صارم لمراقبة الجودة" },
+        "delivery": { "title": "تسليم سريع", "desc": "تسليم الطلبات خلال 7-15 يوم" },
+        "custom": { "title": "تخصيص", "desc": "خدمات OEM/ODM متاحة" },
+        "logistics": { "title": "خدمات لوجستية عالمية", "desc": "شحن إلى أكثر من 30 دولة" }
+    },
+    "products": {
+        "label": "المنتجات",
+        "title": "جميع المنتجات",
+        "viewDetails": "عرض التفاصيل",
+        "inquiry": "استفسار",
+        "specs": "المواصفات",
+        "description": "الوصف"
+    },
+    "filter": {
+        "all": "الكل",
+        "hangtags": "بطاقات",
+        "wovenlabels": "ملصقات",
+        "woventape": "أشرطة",
+        "buttons": "أزرار",
+        "mailerboxes": "صناديق",
+        "garmentbags": "أكياس"
+    },
+    "contact": {
+        "label": "اتصل بنا",
+        "title": "احصل على عرض سعر",
+        "infoTitle": "معلومات الاتصال",
+        "email": "البريد الإلكتروني",
+        "phone": "الهاتف",
+        "address": "العنوان",
+        "hours": "ساعات العمل",
+        "hoursText": "الإثنين-الجمعة: 9:00 - 18:00 (بتوقيت بكين)"
+    },
+    "form": {
+        "name": "الاسم *",
+        "email": "البريد الإلكتروني *",
+        "phone": "الهاتف",
+        "company": "الشركة",
+        "productInterest": "المنتج المهتم به",
+        "selectProduct": "اختر منتجًا",
+        "message": "الرسالة *",
+        "submit": "إرسال الاستفسار",
+        "success": "✓ تم إرسال الاستفسار بنجاح!",
+        "error": "✗ فشل الإرسال. يرجى المحاولة مرة أخرى."
+    },
+    "inquiry": {
+        "title": "استفسار سريع",
+        "success": "✓ تم تقديم الاستفسار!",
+        "error": "✗ فشل التقديم. يرجى المحاولة مرة أخرى."
+    },
+    "footer": {
+        "desc": "مورد محترف لإكسسوارات الملابس",
+        "quickLinks": "روابط سريعة",
+        "products": "المنتجات",
+        "contact": "اتصل بنا",
+        "rights": "جميع الحقوق محفوظة."
+    },
+    "product_data": {}
+}
