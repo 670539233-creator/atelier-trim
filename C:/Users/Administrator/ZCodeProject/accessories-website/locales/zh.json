@@ -1,0 +1,197 @@
+{
+    "site": {
+        "title": "专业服装辅料供应商 | Atelier Trim",
+        "description": "专业服装辅料及配饰供应商 - 吊牌、织唛、织带、纽扣、飞机盒、服装袋一站式采购"
+    },
+    "nav": {
+        "logo": "Atelier Trim",
+        "home": "首页",
+        "products": "产品",
+        "contact": "联系我们"
+    },
+    "hero": {
+        "badge": "专业辅料 · 品质之选",
+        "title": "专业服装辅料供应商",
+        "subtitle": "吊牌 · 织唛 · 织带 · 纽扣 · 飞机盒 · 服装袋",
+        "viewProducts": "查看产品",
+        "contactUs": "联系我们",
+        "badge2": "定制生产 · 全球交付",
+        "title2": "定制您的品牌辅料",
+        "subtitle2": "从设计到交付，一站式辅料解决方案"
+    },
+    "about": {
+        "label": "关于我们",
+        "title": "专业的服装辅料解决方案提供商",
+        "p1": "我们是一家专注于服装辅料研发、生产和销售的综合性企业，拥有超过15年的行业经验。我们的产品涵盖吊牌、织唛、织带、纽扣、飞机盒、服装袋等全系列服装辅料，为客户提供一站式采购服务。",
+        "p2": "公司拥有先进的生产设备和严格的质量控制体系，产品远销欧美、东南亚、中东等全球30多个国家和地区。我们致力于为客户提供高品质、高性价比的辅料产品，帮助您的品牌提升价值。",
+        "years": "年行业经验",
+        "clients": "服务客户",
+        "countries": "出口国家"
+    },
+    "categories": {
+        "label": "产品分类",
+        "title": "六大产品系列",
+        "hangtags": "吊牌",
+        "hangtags_desc": "各类服装品牌吊牌、价格牌、挂牌，支持多种材质与工艺定制",
+        "wovenlabels": "织唛",
+        "wovenlabels_desc": "高品质织标、织唛，精细织造工艺，清晰展示品牌信息",
+        "woventape": "织带",
+        "woventape_desc": "各类服装用织带、绳带、松紧带，颜色尺寸均可定制",
+        "buttons": "纽扣",
+        "buttons_desc": "树脂扣、金属扣、贝壳扣等多种材质纽扣，满足不同服装需求",
+        "mailerboxes": "飞机盒",
+        "mailerboxes_desc": "服装包装飞机盒、快递盒，可定制印刷品牌Logo及图案",
+        "garmentbags": "服装袋",
+        "garmentbags_desc": "OPP袋、PE袋、无纺布袋等服装包装袋，支持定制印刷"
+    },
+    "advantages": {
+        "label": "为什么选择我们",
+        "title": "我们的核心优势",
+        "quality": {
+            "title": "品质保证",
+            "desc": "严格的质量控制体系，每批产品出厂前经过多道检测流程"
+        },
+        "delivery": {
+            "title": "快速交付",
+            "desc": "高效的供应链管理，常规订单7-15天完成交付"
+        },
+        "custom": {
+            "title": "定制服务",
+            "desc": "支持来样定制、OEM/ODM服务，满足您的个性化需求"
+        },
+        "logistics": {
+            "title": "全球物流",
+            "desc": "海运、空运、快递多渠道发货，覆盖全球30+国家"
+        }
+    },
+    "products": {
+        "label": "产品展示",
+        "title": "全部产品",
+        "viewDetails": "查看详情",
+        "inquiry": "询价",
+        "specs": "产品规格",
+        "description": "产品描述"
+    },
+    "filter": {
+        "all": "全部",
+        "hangtags": "吊牌",
+        "wovenlabels": "织唛",
+        "woventape": "织带",
+        "buttons": "纽扣",
+        "mailerboxes": "飞机盒",
+        "garmentbags": "服装袋"
+    },
+    "contact": {
+        "label": "联系我们",
+        "title": "获取报价与咨询",
+        "infoTitle": "联系方式",
+        "email": "邮箱",
+        "phone": "电话",
+        "address": "地址",
+        "hours": "工作时间",
+        "hoursText": "周一至周五：9:00 - 18:00（北京时间）\n我们将在24小时内回复您的询盘"
+    },
+    "form": {
+        "name": "姓名 *",
+        "email": "邮箱 *",
+        "phone": "电话",
+        "company": "公司名称",
+        "productInterest": "产品意向",
+        "selectProduct": "请选择产品",
+        "message": "留言内容 *",
+        "submit": "发送询盘",
+        "success": "✓ 询盘发送成功！我们将在24小时内与您联系。",
+        "error": "✗ 发送失败，请稍后重试或直接发送邮件至 ateliertrim@yeah.net"
+    },
+    "inquiry": {
+        "title": "快速询价",
+        "success": "✓ 询价提交成功！我们会尽快回复您。",
+        "error": "✗ 提交失败，请稍后重试。"
+    },
+    "footer": {
+        "desc": "专业服装辅料供应商，一站式采购解决方案",
+        "quickLinks": "快速链接",
+        "products": "产品分类",
+        "contact": "联系方式",
+        "rights": "保留所有权利。"
+    },
+    "product_data": {
+        "hangtags": {
+            "name": "吊牌 / Hang Tags",
+            "category": "吊牌",
+            "description": "我们提供各类高品质服装吊牌，包括品牌吊牌、价格牌、水洗标等。支持铜版纸、牛皮纸、PVC、白卡纸等多种材质，以及烫金、压纹、UV、凹凸等多种工艺。可根据您的品牌需求量身定制，是提升品牌形象的重要载体。",
+            "specs": {
+                "material": "铜版纸、牛皮纸、PVC、白卡纸、特种纸",
+                "process": "烫金/烫银、UV印刷、凹凸压纹、覆膜、击凸",
+                "size": "可定制 / Customizable",
+                "moq": "1000张起订",
+                "delivery": "7-15个工作日"
+            }
+        },
+        "wovenlabels": {
+            "name": "织唛 / Woven Labels",
+            "category": "织唛",
+            "description": "采用高精密织造设备，生产各类品牌织标、织唛。包括主唛、洗水唛、侧唛、旗唛等。使用优质涤纶丝线，色彩鲜艳、文字清晰、手感柔软、耐水洗不掉色。广泛应用于服装、鞋帽、箱包等行业。",
+            "specs": {
+                "material": "涤纶丝、棉线、金银线",
+                "type": "织标、印标、热转印标、硅胶标",
+                "folding": "对折、切折、两边折、书本折等",
+                "moq": "1000个起订",
+                "delivery": "7-15个工作日"
+            }
+        },
+        "woventape": {
+            "name": "织带 / Woven Tape",
+            "category": "织带",
+            "description": "专业生产各类服装用织带、绳带、松紧带、缎带等。采用高速织带机生产，品质稳定。支持提花、印花、染色等多种工艺，颜色、宽度、厚度均可按需定制。广泛应用于服装、箱包、鞋类、工艺品等领域。",
+            "specs": {
+                "material": "涤纶、尼龙、棉、PP丙纶",
+                "type": "平纹带、缎带、松紧带、提花带、人字带",
+                "width": "3mm - 150mm",
+                "color": "任何颜色均可定制 / Any Color",
+                "moq": "500米起订",
+                "delivery": "7-15个工作日"
+            }
+        },
+        "buttons": {
+            "name": "纽扣 / Buttons",
+            "category": "纽扣",
+            "description": "提供全品类服装纽扣，包括树脂扣、金属扣、贝壳扣、椰子扣、牛角扣、包布扣等。支持定制LOGO、颜色、尺寸。产品通过环保检测认证，符合出口标准。适用于衬衫、外套、裤子、大衣等各类服装。",
+            "specs": {
+                "material": "树脂、金属、贝壳、椰子壳、牛角、塑料",
+                "type": "四眼扣、两眼扣、暗扣、工字扣、四合扣",
+                "size": "10mm - 50mm（多种尺寸可选）",
+                "color": "可定制各种颜色及效果",
+                "moq": "1000颗起订",
+                "delivery": "10-15个工作日"
+            }
+        },
+        "mailerboxes": {
+            "name": "飞机盒 / Mailer Boxes",
+            "category": "飞机盒",
+            "description": "专业生产服装包装用飞机盒、快递盒、翻盖盒。采用优质瓦楞纸板和白卡纸，承重好、抗压性强。支持定制尺寸、印刷品牌LOGO和图案，提升品牌开箱体验。适用于服装、鞋帽、礼品等行业。",
+            "specs": {
+                "material": "瓦楞纸、白卡纸、牛皮纸",
+                "type": "飞机盒、翻盖盒、抽屉盒、天地盖盒",
+                "printing": "单色/多色印刷、覆膜、烫金/烫银",
+                "size": "可定制任意尺寸",
+                "moq": "500个起订",
+                "delivery": "10-20个工作日"
+            }
+        },
+        "garmentbags": {
+            "name": "服装袋 / Garment Bags",
+            "category": "服装袋",
+            "description": "提供各类服装包装袋，包括OPP自粘袋、PE拉链袋、无纺布袋、PVC袋等。透明度高、密封性好、韧性强。支持多种尺寸定制和品牌LOGO印刷。适用于服装的储存、运输和展示包装。",
+            "specs": {
+                "material": "OPP、PE、CPE、无纺布、PVC",
+                "type": "自粘袋、拉链袋、扣手袋、背心袋、挂衣袋",
+                "thickness": "单面1.5丝 - 20丝",
+                "size": "可定制任意尺寸",
+                "printing": "支持1-8色印刷",
+                "moq": "1000个起订",
+                "delivery": "7-15个工作日"
+            }
+        }
+    }
+}
